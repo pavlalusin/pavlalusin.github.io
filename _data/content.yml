@@ -1,0 +1,87 @@
+intro:
+  heading: Learn guitar now!
+  subheading: Pavla Lušin
+  btn-text: Tell me more
+
+services:
+  heading: Services
+  subheading: Lorem ipsum dolor sit amet consectetur.
+  service:
+    - icon: fa-laptop fa-guitar fa-classical-w
+      heading: Classical
+      text: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.
+    - icon: fa-laptop fa-guitar fa-acoustic-w
+      heading: Responsive Design
+      text: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.
+
+portfolio:
+  heading: Portfolio
+  subheading: Lorem ipsum dolor sit amet consectetur.
+
+about:
+  heading: About
+  subheading: Lorem ipsum dolor sit amet consectetur.
+  timeline:
+    - img: "img/about/1.jpg"
+      heading: 2009-2011
+      subheading: Our Humble Beginnings
+      text: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!
+
+    - img: "img/about/2.jpg"
+      heading: March 2011
+      subheading: An Agency is Born
+      text: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!
+
+    - img: "img/about/3.jpg"
+      heading: December 2012
+      subheading: Transition to Full Service
+      text: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!
+
+    - img: "img/about/4.jpg"
+      heading: July 2014
+      subheading: Phase Two Expansion
+      text: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!
+
+team:
+  heading: Students
+  subheading: Lorem ipsum dolor sit amet consectetur.
+  text: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde.
+    # Team names, titles and social links
+  people:
+    - name: Kay Garland
+      pic: 1
+      position: Lead Designer
+      social:
+        - title: twitter
+          url: #
+        - title: facebook
+          url: #
+        - title: stack-overflow
+          url: #
+
+    - name: Larry Parker
+      pic: 2
+      position: Lead Marketer
+      social:
+        - title: twitter
+          url: #
+        - title: facebook
+          url: #
+        - title: linkedin
+          url: #
+
+    - name: Diana Petersen
+      pic: 3
+      position: Lead Developer
+      social:
+        - title: twitter
+          url: #
+        - title: facebook
+          url: #
+        - title: google-plus
+          url: #
+
+contact:
+  heading: Contact
+  subheading: Lorem ipsum dolor sit amet consectetur.
+  btn-text: Send Message

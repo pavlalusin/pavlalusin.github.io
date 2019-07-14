@@ -1,0 +1,36 @@
+.fa.fa-guitar {
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    color: rgba(0, 0, 0, 0);
+}
+.fa.fa-classical {
+    background-image: url('{{site.baseurl}}img/guitars/classical1.svg');
+    background-image: url('{{site.baseurl}}img/guitars/classical2.svg');
+}
+.fa.fa-acoustic {
+    background-image: url('{{site.baseurl}}img/guitars/acoustic2.svg');
+    background-image: url('{{site.baseurl}}img/guitars/acoustic1.svg');
+}
+.fa.fa-classical-w {
+    background-image: url('{{site.baseurl}}img/guitars/classical-w1.svg');
+    background-image: url('{{site.baseurl}}img/guitars/classical-w2.svg');
+}
+.fa.fa-acoustic-w {
+    background-image: url('{{site.baseurl}}img/guitars/acoustic-w2.svg');
+    background-image: url('{{site.baseurl}}img/guitars/acoustic-w1.svg');
+}
+.youtube-container {
+    position: relative;
+    padding-bottom: 56.25%;
+    height: 0;
+    overflow: hidden;
+    max-width: 100%;
+}
+.youtube-container iframe, .youtube-container object, .youtube-container embed {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
