@@ -4,14 +4,14 @@ intro:
   btn-text: Tell me more
 
 services:
-  heading: Services
-  subheading: Lorem ipsum dolor sit amet consectetur.
+  heading: Programmes
+  subheading: Customise your learning experience.
   service:
-    - icon: fa-laptop fa-guitar fa-classical-w
+    - icon: fa-laptop fa-guitar fa-classical
       heading: Classical
       text: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.
-    - icon: fa-laptop fa-guitar fa-acoustic-w
-      heading: Responsive Design
+    - icon: fa-laptop fa-guitar fa-acoustic
+      heading: Acoustic
       text: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.
 
 portfolio:
