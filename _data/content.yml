@@ -16,31 +16,34 @@ services:
 
 portfolio:
   heading: Portfolio
-  subheading: Lorem ipsum dolor sit amet consectetur.
+  subheading: About my work.
 
 about:
-  heading: About
-  subheading: Lorem ipsum dolor sit amet consectetur.
+  heading: Experiencess
+  subheading: A timeline of my experiences with guitar.
   timeline:
     - img: "img/about/1.jpg"
-      heading: 2009-2011
-      subheading: Our Humble Beginnings
-      text: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!
+      heading: Feb 2019 - Current
+      subheading: Guitar teacher in Dublin
+      text: >
+          I am teaching classical and acoustic guitar in
+          [Kilternan music school](https://www.kilternanschoolofmusic.ie) as
+          well as substituting in {other} music schools when needed.
+          In addition I teach private students chords, fingerstyle and classical
+          guitar.
 
     - img: "img/about/2.jpg"
-      heading: March 2011
-      subheading: An Agency is Born
+      heading: Sep 2016 - Jan 2019
+      subheading: Guitar teacher in Slovenia
       text: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!
 
-    - img: "img/about/3.jpg"
-      heading: December 2012
-      subheading: Transition to Full Service
-      text: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!
-
-    - img: "img/about/4.jpg"
-      heading: July 2014
-      subheading: Phase Two Expansion
-      text: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!
+    - img: "img/about/uni-lj.svg"
+      heading: 2012 - 2017
+      subheading: Student of Classical guitar
+      text: >
+          I completed a bachleor's and master's classical guitar programme at
+          [University of Ljubljana, Academy of Music](https://www.ag.uni-lj.si/academy/about-academy).
+          Additionally I completed pedagogical
 
 team:
   heading: Students

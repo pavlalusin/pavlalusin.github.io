@@ -1,15 +1,22 @@
 ---
-title: Golden
-subtitle: Website Design
+
+title: About Pavla
+subtitle: Story
 layout: default
 modal-id: 3
 date: 2014-07-16
-img: golden.png
 thumbnail: golden-thumbnail.png
-alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
-
+html: yes
 ---
+<p>
+    Pavla Lušin has been playing classical guitar for almost 20 years and one of the most important aspects of her musical career is to share the affection for this instrument with her students.
+</p>
+<p>
+    She completed a masters degree in classical guitar performance at the Academy of Music in Ljubljana, Slovenia, where she also completed additional pedagogical qualifications. Her four years of teaching experience led her to work with students of various ages and abilities, from complete beginners to more experienced guitarists.
+</p>
+<p>
+    Working in both public and private music schools means that Pavla has experience with preparing students for competitions as well as teaching more relaxed programs focusing on popular music. With that knowledge she can tailor classes to the needs of individual students ensuring everyone realizes their potential and expectations. She also likes working with chamber groups, as she has previously formed and conducted a guitar orchestra.
+</p>
+<p>
+    As a performer, Pavla had multiple solo concerts but also performed as a member of a Slovenian mandolin orchestra "Orkester Mandolina Ljubljana" and the Dublin guitar ensemble "GuitaRIAM".
+</p>

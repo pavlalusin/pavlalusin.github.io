@@ -1,6 +1,6 @@
 ---
 title: Fuoco
-subtitle: Performace recording
+subtitle: A music video
 layout: default
 modal-id: 1
 date: 2014-07-18
@@ -10,7 +10,7 @@ html: yes
 
 <div class='youtube-container'><iframe src='https://www.youtube.com/embed/iIf1qwDU_oU' frameborder='0' allowfullscreen></iframe></div>
 
-<p>Pavla, pavla, brenk, brenk</p>
+<!-- <p>Pavla, pavla, brenk, brenk</p> -->
 <ul class="list-inline item-details">
     <li>
         Piece:

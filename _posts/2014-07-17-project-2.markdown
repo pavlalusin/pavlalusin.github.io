@@ -1,6 +1,6 @@
 ---
 title: Master's Concert
-subtitle: Website Design
+subtitle: Audio recording
 layout: default
 modal-id: 2
 date: 2014-07-17
