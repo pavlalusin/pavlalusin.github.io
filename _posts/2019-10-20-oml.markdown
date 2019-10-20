@@ -28,3 +28,24 @@ html: yes
         </strong>
     </li>
 </ul>
+
+<div class='youtube-container'>
+	<iframe src="https://www.youtube.com/embed/ricTH-aGfy4" frameborder="0" allowfullscreen></iframe>
+</div>
+
+<ul class="list-inline item-details">
+    <li>
+        Piece:
+        <strong> The Godfather - Nino Rota </strong>
+    </li>
+    <li>
+        Date:
+        <strong> June 2013 </strong>
+    </li>
+    <li>
+        Performed by:
+        <strong>
+            <a href="http://www.mandolina.si/domov.html">Orkester Mandolina Ljubljana</a>
+        </strong>
+    </li>
+</ul>
