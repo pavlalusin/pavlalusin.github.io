@@ -176,8 +176,10 @@ fieldset[disabled] .btn-xl.active {
 }
 
 .navbar-default .navbar-brand {
-    font-family: "Kaushan Script","Helvetica Neue",Helvetica,Arial,cursive;
+    /*font-family: "Kaushan Script","Helvetica Neue",Helvetica,Arial,cursive;*/
+    text-transform: uppercase;
     color: #{{ site.data.template.color.primary }};
+    font-family: {{ site.data.template.font.primary }};
 }
 
 .navbar-default .navbar-brand:hover,
@@ -245,7 +247,7 @@ fieldset[disabled] .btn-xl.active {
     }
 
     .navbar-default .navbar-brand {
-        font-size: 2em;
+        font-size: 1.5em;
         -webkit-transition: all .3s;
         -moz-transition: all .3s;
         transition: all .3s;
@@ -261,7 +263,7 @@ fieldset[disabled] .btn-xl.active {
     }
 
     .navbar-default.navbar-shrink .navbar-brand {
-        font-size: 1.5em;
+        font-size: 1em;
     }
 }
 
@@ -339,7 +341,7 @@ section h3.section-subheading {
     text-transform: none;
     font-family: {{ site.data.template.font.secondary }};
     font-size: 16px;
-    font-style: italic;
+    /*font-style: italic;*/
     font-weight: 400;
 }
 
@@ -354,9 +356,15 @@ section h3.section-subheading {
     text-transform: none;
 }
 
+#portfolio {
+    text-align: center;
+}
+
 #portfolio .portfolio-item {
     right: 0;
     margin: 0 0 15px;
+    float: none;
+    display: inline-block;
 }
 
 #portfolio .portfolio-item .portfolio-link {

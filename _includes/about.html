@@ -17,8 +17,8 @@
                                 </div>
                                 <div class="timeline-panel">
                                     <div class="timeline-heading">
-                                        <h4>{{ event.heading }}</h4>
-                                        <h4 class="subheading">{{ event.subheading }}</h4>
+                                        <h4>{{ event.heading | markdownify }}</h4>
+                                        <h4 class="subheading">{{ event.subheading | markdownify }}</h4>
                                     </div>
                                     <div class="timeline-body">
                                         <p class="text-muted">{{ event.text | markdownify }}</p>
@@ -29,7 +29,7 @@
                         <li class="timeline-inverted">
                             <div class="timeline-image">
                                 <h4>Be Part
-                                    <br>Of Our
+                                    <br>Of This
                                     <br>Story!</h4>
                             </div>
                         </li>

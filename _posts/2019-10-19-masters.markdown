@@ -2,8 +2,8 @@
 title: Master's Concert
 subtitle: Audio recording
 layout: default
-modal-id: 2
-date: 2014-07-17
+modal-id: 3
+date: 2019-10-18
 thumbnail: masters-thumbnail.jpg
 html: yes
 ---

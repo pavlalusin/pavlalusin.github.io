@@ -1,49 +1,76 @@
 intro:
-  heading: Learn guitar now!
+  heading: Learn guitar in Dublin!
   subheading: Pavla Lušin
   btn-text: Tell me more
 
 services:
   heading: Programmes
-  subheading: Customise your learning experience.
+  subheading: 
+    All classes are tailored to goals of every student - we can always mix things up!
   service:
     - icon: fa-laptop fa-guitar fa-classical
-      heading: Classical
-      text: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.
+      heading: Classical <small> might suit you if </small>
+      text: >
+        * you want to learn music notation,
+        
+        * you want a good foundation for other styles:
+          * chords, fingerstyle, electric guitar
+        
+        * you want to learn music theory,
+        
+        * you want to learn some other instrument in the future.
+
     - icon: fa-laptop fa-guitar fa-acoustic
-      heading: Acoustic
-      text: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.
+      heading: Acoustic <small> can be your jam if </small>
+      text: >
+        * you love to sing and would like to play along,
+
+        * you don't have the patience to learn music notation - tabs might be easier,
+
+        * your main goal is to play popular music.
 
 portfolio:
   heading: Portfolio
   subheading: About my work.
 
 about:
-  heading: Experiencess
-  subheading: A timeline of my experiences with guitar.
+  heading: Experience
+  subheading:
   timeline:
-    - img: "img/about/1.jpg"
-      heading: Feb 2019 - Current
-      subheading: Guitar teacher in Dublin
-      text: >
-          I am teaching classical and acoustic guitar in
-          [Kilternan music school](https://www.kilternanschoolofmusic.ie) as
-          well as substituting in {other} music schools when needed.
-          In addition I teach private students chords, fingerstyle and classical
-          guitar.
+    - img: "img/about/kilternan.png"
+      subheading: Feb 2019 - Current
+      heading: "[Kilternan school of music](https://www.kilternanschoolofmusic.ie) <br> Private lessons in Dublin"
+      text: Guitar teacher
 
-    - img: "img/about/2.jpg"
-      heading: Sep 2016 - Jan 2019
-      subheading: Guitar teacher in Slovenia
-      text: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!
+    - img: "img/about/ribnica.png"
+      subheading: Sep 2016 - Feb 2019
+      heading: Music school Ribnica, Slovenia
+      text: Guitar teacher
+
+    - img: "img/about/sevnica.png"
+      subheading: Sep 2018 - Feb 2019
+      heading: Music school Sevnica, Slovenia
+      text: Guitar teacher
+
+    - img: "img/about/lartko.png"
+      subheading: Sep 2014 - Jun 2015
+      heading: Music school Lartko, Slovenia
+      text: Guitar teacher
 
     - img: "img/about/uni-lj.svg"
-      heading: 2012 - 2017
-      subheading: Student of Classical guitar
-      text: >
-          I completed a bachleor's and master's classical guitar programme at
-          [University of Ljubljana, Academy of Music](https://www.ag.uni-lj.si/academy/about-academy).
-          Additionally I completed pedagogical
+      subheading: Sep 2015 - Jul 2018
+      heading: Master in musical arts, guitar
+      text: University of Ljubljana, Academy of Music
+
+    - img: "img/about/liszt-academy.png"
+      subheading: Sep 2015 - Feb 2016
+      heading: Erasmus exchange, Hungary
+      text: Ferenc Lizst Academy of Music, Budapest
+
+    - img: "img/about/uni-lj.svg"
+      subheading: Sep 2012 - Sep 2015
+      heading: Bachelor in musical arts, guitar
+      text: University of Ljubljana, Academy of Music
 
 team:
   heading: Students

@@ -28,3 +28,7 @@
 header {
     background-color: #333;
 }
+
+#services .text-muted ul {
+    text-align: left;
+}

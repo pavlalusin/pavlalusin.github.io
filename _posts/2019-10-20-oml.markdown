@@ -1,0 +1,30 @@
+---
+title: Orkester Mandolina Ljubljana
+subtitle: Mandolin orchestra
+layout: default
+modal-id: 4
+date: 2019-10-17
+thumbnail: oml_thumbnail.jpg
+html: yes
+---
+
+<div class='youtube-container'>
+	<iframe src="https://www.youtube.com/embed/LeVhebgsuOQ" frameborder="0" allowfullscreen></iframe>
+</div>
+
+<ul class="list-inline item-details">
+    <li>
+        Piece:
+        <strong> The good, the bad and the ugly - E. Morricone </strong>
+    </li>
+    <li>
+        Date:
+        <strong> February 2014 </strong>
+    </li>
+    <li>
+        Performed by:
+        <strong>
+            <a href="http://www.mandolina.si/domov.html">Orkester Mandolina Ljubljana</a>
+        </strong>
+    </li>
+</ul>

@@ -2,8 +2,8 @@
 title: Fuoco
 subtitle: A music video
 layout: default
-modal-id: 1
-date: 2014-07-18
+modal-id: 2
+date: 2019-10-19
 thumbnail: fuoco-thumbnail.jpg
 html: yes
 ---

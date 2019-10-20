@@ -1,11 +1,10 @@
 ---
-
 title: About Pavla
 subtitle: Story
 layout: default
-modal-id: 3
-date: 2014-07-16
-thumbnail: golden-thumbnail.png
+modal-id: 1
+date: 2019-10-20
+thumbnail: about_thumbnail.jpg
 html: yes
 ---
 <p>

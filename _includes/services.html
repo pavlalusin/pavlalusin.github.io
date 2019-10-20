@@ -14,8 +14,8 @@
                             <i class="fa fa-circle fa-stack-2x text-primary"></i>
                             <i class="fa {{ service.icon }} fa-stack-1x fa-inverse"></i>
                         </span>
-                        <h4 class="service-heading">{{ service.heading }}</h4>
-                        <p class="text-muted">{{ service.text }}</p>
+                        <h4 class="service-heading">{{ service.heading }} </h4>
+                        <div class="text-muted">{{ service.text | markdownify }}</div>
                     </div>
                 {%- endfor -%}
             </div>
