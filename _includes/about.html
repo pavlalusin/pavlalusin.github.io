@@ -13,7 +13,9 @@
                         {%- for event in site.data.content.about.timeline -%}
                             <li {% cycle '', 'class="timeline-inverted"' %}>
                                 <div class="timeline-image">
-                                    <img class="img-circle img-responsive" src="{{ event.img }}" alt="">
+                                    <a href="{{ event.link }}">
+                                        <img class="img-circle img-responsive" src="{{ event.img }}" alt="">
+                                    </a>
                                 </div>
                                 <div class="timeline-panel">
                                     <div class="timeline-heading">
@@ -28,9 +30,9 @@
                         {%- endfor -%}
                         <li class="timeline-inverted">
                             <div class="timeline-image">
-                                <h4>Be Part
+                                <h4><a href="#team" class="page-scroll" style="color: white;">Be Part
                                     <br>Of This
-                                    <br>Story!</h4>
+                                    <br>Story!</a></h4>
                             </div>
                         </li>
                     </ul>

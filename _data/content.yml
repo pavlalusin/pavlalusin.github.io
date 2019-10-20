@@ -39,38 +39,45 @@ about:
   timeline:
     - img: "img/about/kilternan.png"
       subheading: Feb 2019 - Current
-      heading: "[Kilternan school of music](https://www.kilternanschoolofmusic.ie) <br> Private lessons in Dublin"
+      heading: "Kilternan school of music <br> Private lessons in Dublin"
       text: Guitar teacher
+      link: "https://www.kilternanschoolofmusic.ie"
 
     - img: "img/about/ribnica.png"
       subheading: Sep 2016 - Feb 2019
       heading: Music school Ribnica, Slovenia
       text: Guitar teacher
+      link: "http://gs-ribnica.si/"
 
     - img: "img/about/sevnica.png"
       subheading: Sep 2018 - Feb 2019
       heading: Music school Sevnica, Slovenia
       text: Guitar teacher
+      link: "http://www.gs-sevnica.si"
 
     - img: "img/about/lartko.png"
       subheading: Sep 2014 - Jun 2015
       heading: Music school Lartko, Slovenia
       text: Guitar teacher
+      link: "http://www.glasbenasolalartko.si"
 
     - img: "img/about/uni-lj.svg"
       subheading: Sep 2015 - Jul 2018
       heading: Master in musical arts, guitar
       text: University of Ljubljana, Academy of Music
+      link: "https://www.ag.uni-lj.si/study/study-programme-ma"
 
     - img: "img/about/liszt-academy.png"
       subheading: Sep 2015 - Feb 2016
       heading: Erasmus exchange, Hungary
       text: Ferenc Lizst Academy of Music, Budapest
+      link: "https://lfze.hu/en"
 
     - img: "img/about/uni-lj.svg"
       subheading: Sep 2012 - Sep 2015
       heading: Bachelor in musical arts, guitar
       text: University of Ljubljana, Academy of Music
+      link: "https://www.ag.uni-lj.si/study/study-programme-ba"
 
 team:
   heading: Students
