@@ -1,0 +1,25 @@
+---
+---
+$small-size: 768px;
+$medium-size: 992px;
+$large-size: 1200px;
+body {
+	--primary-color: #fed136;
+	--primary-dark-color: #fec503;
+	--font-color: #333;
+	--font-muted-color: #777;
+	--font-roboto: "Roboto Slab", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	--font-primary: Montserrat, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	--font-secondary: "Droid Serif", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+header {
+    background-image: url('{{ site.baseurl }}img/header-bg.jpg');
+}
+
+@import "bootstrap.scss";
+@import "common.scss";
+@import "navbar.scss";
+@import "header.scss";
+@import "portfolio.scss";
+@import "timeline.scss";

@@ -1,0 +1,101 @@
+
+.navbar {
+    border-color: transparent;
+    background-color: #222;
+    position: fixed;
+    left: 0;
+    right: 0;
+
+    .navbar-brand {
+        text-transform: uppercase;
+        color: var(--primary-color);
+        font-family: var(--font-primary);
+
+        &:hover,
+        &:focus,
+        &:active,
+        &.active {
+            color: var(--primary-dark-color);
+        }
+    }
+
+
+    .navbar-collapse {
+        border-color: rgba(255,255,255,.02);
+    }
+
+    .navbar-toggle {
+        border-color: var(--primary-color);
+        background-color: var(--primary-color);
+        .icon-bar {
+            background-color: #fff;
+        }
+        &:hover,
+        &:focus {
+            background-color: var(--primary-color);
+        }
+    }
+
+
+
+    .nav li a {
+        text-transform: uppercase;
+        font-family: var(--font-primary);
+        font-weight: 400;
+        letter-spacing: 1px;
+        color: #fff;
+        -webkit-transition: all ease .35s;
+        -moz-transition: all ease .35s;
+        transition: all ease .35s;
+        &:hover, &:focus {
+            outline: 0;
+            color: var(--primary-color);
+        }
+    }
+
+
+    .navbar-nav>.active>a {
+        border-radius: 0;
+        color: #fff;
+        background-color: var(--primary-color);
+        &:hover,
+        &:focus {
+            color: #fff;
+            background-color: var(--primary-dark-color);
+        }
+    }
+
+}
+
+@media(min-width:$small-size) {
+    .navbar {
+        padding: 25px 0;
+        border: 0;
+        background-color: transparent;
+        -webkit-transition: padding .3s;
+        -moz-transition: padding .3s;
+        transition: padding .3s;
+        .navbar-brand {
+            font-size: 1.5em;
+            -webkit-transition: all .3s;
+            -moz-transition: all .3s;
+            transition: all .3s;
+        }
+        .navbar-toggle {
+            display: none;
+        }
+        .navbar-nav>.active>a {
+            border-radius: 3px;
+        }
+
+        &.navbar-shrink {
+            padding: 10px 0;
+            background-color: #222;
+            .navbar-brand {
+                font-size: 1em;
+            }
+        }
+
+    }
+
+}
